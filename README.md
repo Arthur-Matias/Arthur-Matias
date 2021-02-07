@@ -6,7 +6,7 @@
   <h3 >Welcome to my GitHub Profile</h3>
   <p>I'm a frontend developer & Graphic Designer from Brazil.</p>
   <br>
-  
+  <a href="https://github.com/Arthur-Matias/100-DaysOfCode">Currently on the 100 days of code challenge</a>
   ## ✉️ Find me on:
   
   <p align="center">
