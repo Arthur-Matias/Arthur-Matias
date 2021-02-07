@@ -1,5 +1,5 @@
 <div style="text-align: center">
-  <img src="https://pkglobal.com/wp-content/uploads/2019/10/front-end-developer-1609x555.png"  height="200px">
+  <img src="https://pkglobal.com/wp-content/uploads/2019/10/front-end-developer-1609x555.png"  height="200px" width="100%" >
   <br>
   <h6><u>Hi, my name is</u></h6>
   <h1>Arthur Matias</h1>
