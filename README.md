@@ -1,5 +1,5 @@
 <div style="display: flex;">
-  <a href="https://arthur-matias.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://pkglobal.com/wp-content/uploads/2019/10/front-end-developer-1609x555.png"  height="250px" width="100%" > </a>
+  <a href="https://arthur-matias.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/Arthur-Matias/Arthur-Matias.github.io/master/banner.png"  height="250px" width="100%" > </a>
   <br>
   <h6>Hi, my name is</h6>
   <h1>Arthur Matias</h1>
