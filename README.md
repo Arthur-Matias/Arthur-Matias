@@ -13,7 +13,8 @@
   ## ✉️ Find me on:
   
   <br />
- <td> <p><a href="https://arthur-matias.github.io/" target="_blank" rel="noopener noreferrer"> 
+ <tr>
+  <td> <p><a href="https://arthur-matias.github.io/" target="_blank" rel="noopener noreferrer"> 
     <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"
          alt="my website" height="40" style="vertical-align:top; margin:4px"
     > Come visit my Website ! </a></p> </td>
@@ -31,6 +32,7 @@
          height="40"
          style="vertical-align:top; margin:4px"
     > Mail me</a></p> </td>
+</tr>
        
 
         
