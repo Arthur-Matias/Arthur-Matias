@@ -7,10 +7,15 @@
   <p>I'm a frontend developer & Graphic Designer from Brazil.</p>
   <br>
   <a href="https://github.com/Arthur-Matias/100-DaysOfCode">Currently on the 100 days of code challenge</a>
+  
   <br />
+  
   ## ✉️ Find me on:
+  
+  <br />
+  
   <table>
-    <th>
+    <tr>
       <td>
         <p><a href="https://arthur-matias.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="my website" height="40" style="vertical-align:top; margin:4px"> Come visit my Website ! </a></p>
       </td>
@@ -20,9 +25,7 @@
       <td>
            <p><a href="mailto:ahmmfdc@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> Mail me</a></p>
       </td>
-    </th>
-
-  <br />
+    </tr>
 
   ## 💼 Languages and Tools:
   <p align="center">
