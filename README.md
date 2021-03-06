@@ -13,14 +13,11 @@
   ## ✉️ Find me on:
   
   <br />
-  
-  |<p><a href="https://arthur-matias.github.io/" target="_blank" rel="noopener noreferrer"> 
-    <img 
-         src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"
+ <p><a href="https://arthur-matias.github.io/" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"
          alt="my website" height="40" style="vertical-align:top; margin:4px"
     > Come visit my Website ! </a></p>
-  |<p><a 
-         href="https://www.linkedin.com/in/arthur-matias/"
+  <p><a href="https://www.linkedin.com/in/arthur-matias/"
          target="_blank" rel="noopener noreferrer"
          >
             <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
@@ -28,8 +25,12 @@
                  height="40"
                  style="vertical-align:top; margin:4px"
              >Find me on LinkedIn </a></p>
-  <p><a href="mailto:ahmmfdc@gmail.com"> 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> Mail me</a></p>
+  <p style="display: inline-block;"><a href="mailto:ahmmfdc@gmail.com"> 
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"
+         alt="Python"
+         height="40"
+         style="vertical-align:top; margin:4px"
+    > Mail me</a></p>
        
 
         
