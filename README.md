@@ -30,5 +30,5 @@
 </div>
 
 ## 🔥 Profile Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Matias&show_icons=true&theme=nightowl)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Matias&theme=nightowl)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Matias&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Matias&theme=midnight-purple)
