@@ -14,7 +14,9 @@ I'm a frontend developer & Graphic Designer from Brazil.
 - [Mail me](mailto:ahmmfdc@gmail.com)
 
 ## 💼 Languages and Tools:
-![html](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png) ![Javascript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png) ![css](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png) ![java](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png) ![CSharp](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png) 
+<div style="height: 50px;">
+  ![html](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png) ![Javascript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png) ![css](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png) ![java](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png) ![CSharp](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png) 
+</div>
 
 ## 🔥 Profile Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Matias&show_icons=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Matias&theme=midnight-purple)
