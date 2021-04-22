@@ -17,7 +17,7 @@ I'm a frontend developer & Graphic Designer from Brazil.
 
 - HTML5
 - CSS3
-- JavaScript / TypeScript
+- TypeScript
 - Java
 - C#
 - Python
