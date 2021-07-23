@@ -5,7 +5,7 @@
   
 ### Welcome to my GitHub Profile
 
-I'm a frontend developer & Graphic Designer from Brazil.
+I'm a Software Engineer & Graphic Designer from Brazil.
   
 ## ✉️ Find me on:
   
@@ -18,7 +18,6 @@ I'm a frontend developer & Graphic Designer from Brazil.
 - HTML5
 - CSS3
 - TypeScript
-- Java
 - C#
 - Python
 
