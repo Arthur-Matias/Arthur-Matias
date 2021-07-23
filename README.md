@@ -24,6 +24,4 @@ I'm a frontend developer & Graphic Designer from Brazil.
 
 ## 🔥 Profile Stats:
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Matias&theme=midnight-purple)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Matias&show_icons=true&theme=midnight-purple) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Matias&theme=midnight-purple) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Matias&show_icons=true&theme=midnight-purple) 
