@@ -1,7 +1,5 @@
 ![banner](https://raw.githubusercontent.com/Arthur-Matias/Arthur-Matias.github.io/master/banner.png)
 
-![Snake animation](https://github.com/Arthur-Matias/Arthur-Matias/blob/output/github-contribution-grid-snake.svg)
-
 ###### Hi, my name is</h6>
 # Arthur Matias
   
