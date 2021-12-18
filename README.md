@@ -27,6 +27,6 @@
   - Python
 
   ## 🔥 Profile Stats:
-  <img style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Matias&theme=midnight-purple" alt="Top langs">  <img style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%" src="https://github-readme-stats.vercel.app/api?username=Arthur-Matias&show_icons=true&theme=midnight-purple" alt="Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Matias&theme=midnight-purple" alt="Top langs">  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Matias&show_icons=true&theme=midnight-purple" alt="Github Stats">
   
 </div>
