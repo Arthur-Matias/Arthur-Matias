@@ -1,31 +1,32 @@
 <div style="text-align:center">
-![banner](https://raw.githubusercontent.com/Arthur-Matias/Arthur-Matias.github.io/master/banner.png)
+
+  ![banner](https://raw.githubusercontent.com/Arthur-Matias/Arthur-Matias.github.io/master/banner.png)
   
-### Welcome to my GitHub Profile
+  ### Welcome to my GitHub Profile
 
-I'm a Software Engineer & Graphic Designer from Brazil in love with graphics and visual stuff, like numerical simulations, computer graphics, layouts construction, 3D, 2D, VFX, VR, animation, games and etc.
+  I'm a Software Engineer & Graphic Designer from Brazil in love with graphics and visual stuff, like numerical simulations, computer graphics, layouts construction, 3D, 2D, VFX, VR, animation, games and etc.
 
-Currently moving to Portugal 🇵🇹
+  Currently moving to Portugal 🇵🇹
 
-Solid knowledge on the Adobe Suite with, photo editing, video and animations.
+  Solid knowledge on the Adobe Suite with, photo editing, video and animations.
 
-Software Development with TypeScript, HTML, CSS and frameworks (for Web, Mobile and Desktop frontend, backend and Data Vizualization), C# (Console Apps, Unity games) and Python (Data Science, Numerical Sims.)
+  Software Development with TypeScript, HTML, CSS and frameworks (for Web, Mobile and Desktop frontend, backend and Data Vizualization), C# (Console Apps, Unity games) and Python (Data Science, Numerical Sims.)
   
-## ✉️ Find me on:
-  
-- [My Website](https://arthur-matias.github.io/)
-- [My LinkedIn](https://www.linkedin.com/in/arthur-matias/)
-- [Mail me](mailto:ahmmfdc@gmail.com)
+  ## ✉️ Find me on:
 
-## 💼 Languages and Tools:
+  - [My Website](https://arthur-matias.github.io/)
+  - [My LinkedIn](https://www.linkedin.com/in/arthur-matias/)
+  - [Mail me](mailto:ahmmfdc@gmail.com)
 
-- HTML5
-- CSS3
-- TypeScript
-- C#
-- Python
+  ## 💼 Languages and Tools:
 
-## 🔥 Profile Stats:
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Matias&theme=midnight-purple) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Matias&show_icons=true&theme=midnight-purple) 
+  - HTML5
+  - CSS3
+  - TypeScript
+  - C#
+  - Python
+
+  ## 🔥 Profile Stats:
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Matias&theme=midnight-purple) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Matias&show_icons=true&theme=midnight-purple) 
 </div>
