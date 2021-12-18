@@ -7,7 +7,7 @@
   <p align="center">
       I'm a Software Engineer & Graphic Designer in love with graphics and visual stuff, like numerical simulations, computer graphics, layouts construction, 3D, 2D, VFX, VR, animation, games and etc.
   Solid knowledge on the Adobe Suite with, photo editing, video and animations.
-  Software Development with TypeScript, HTML, CSS and frameworks (for Web, Mobile and Desktop frontend, backend and Data Vizualization), C# (Console Apps, Unity games) and Python (Data Science, Numerical Sims.)
+  Software Development with TypeScript, HTML, CSS and frameworks (for web, mobile and desktop frontend, backend and Data Vizualization), C# (console apps, Unity games) and Python (data science, numerical simulations, backend)
   </p>
   
   ## ✉️ Find me on:
