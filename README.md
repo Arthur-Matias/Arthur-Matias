@@ -27,9 +27,9 @@
   - Python
 
   ## 🔥 Profile Stats:
-<div style="text-align:center">
+  <p align="center">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Matias&theme=midnight-purple) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Matias&show_icons=true&theme=midnight-purple) 
   
-  </div>
+  </p>
 </div>
