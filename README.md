@@ -19,11 +19,11 @@
 
   ## 💼 Languages and Tools:
 
-  - HTML5
-  - CSS3
-  - TypeScript
+  - TypeScript & JavaScript
   - C#
   - Python
+  - HTML
+  - CSS
 
   ## 🔥 Profile Stats:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Matias&theme=midnight-purple" alt="Top langs">  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Matias&show_icons=true&theme=midnight-purple" alt="Github Stats">
