@@ -4,13 +4,15 @@
   
   ### Welcome to my GitHub Profile
 
-  I'm a Software Engineer & Graphic Designer from Brazil in love with graphics and visual stuff, like numerical simulations, computer graphics, layouts construction, 3D, 2D, VFX, VR, animation, games and etc.
+  <p align="center">
+      I'm a Software Engineer & Graphic Designer from Brazil in love with graphics and visual stuff, like numerical simulations, computer graphics, layouts construction, 3D, 2D, VFX, VR, animation, games and etc.
 
   Currently moving to Portugal 🇵🇹
 
   Solid knowledge on the Adobe Suite with, photo editing, video and animations.
 
   Software Development with TypeScript, HTML, CSS and frameworks (for Web, Mobile and Desktop frontend, backend and Data Vizualization), C# (Console Apps, Unity games) and Python (Data Science, Numerical Sims.)
+  </p>
   
   ## ✉️ Find me on:
 
