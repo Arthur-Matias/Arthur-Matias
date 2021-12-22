@@ -1,6 +1,6 @@
 <div style="text-align:center">
 
-  ![banner](https://raw.githubusercontent.com/Arthur-Matias/Arthur-Matias.github.io/master/banner.png)
+<!--   ![banner](https://raw.githubusercontent.com/Arthur-Matias/Arthur-Matias.github.io/master/banner.png) -->
   
   <h2 align="center">
     Welcome to my GitHub Profile
