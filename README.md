@@ -20,10 +20,10 @@
   ## 💼 Languages and Tools:
 
   - TypeScript & JavaScript
-  - C#
+  - C/C++
   - Python
-  - HTML
-  - CSS
+  - HTML & CSS
+  - MatLAB
 
   ## 🔥 Profile Stats:
   
