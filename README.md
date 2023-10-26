@@ -3,7 +3,7 @@
 <!--   ![banner](https://raw.githubusercontent.com/Arthur-Matias/Arthur-Matias.github.io/master/banner.png) -->
   
   <h2 align="center">
-      [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
+     <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
   </h2>
   <p align="center">
       I'm a Software Engineer & Graphic Designer in love with graphics and visual stuff, like numerical simulations, computer graphics, layouts construction, 3D, 2D, VFX, VR, animation, games and etc.
