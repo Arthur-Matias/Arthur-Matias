@@ -27,6 +27,6 @@
 
   ## 🔥 Profile Stats:
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Matias&theme=midnight-purple" alt="Top langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Matias&theme=midnight-purple" align="center" alt="Top langs">
   
 </div>
