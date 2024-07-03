@@ -6,7 +6,7 @@
      <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=380&height=100&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
   </h2>
   <p align="center">
-      I'm a Software Engineer & Graphic Designer in love with graphics and visual stuff, like numerical simulations, computer graphics, layouts construction, 3D, 2D, VFX, VR, animation, games and etc.
+      I'm a Software Engineer & Graphic Designer in love with graphics, numerical simulations, computer graphics, layout construction, 3D, 2D, VFX, VR, animation, games and etc.
   Solid knowledge on the Adobe Suite with, photo editing, video and animations.
   Software Development with TypeScript, HTML, CSS and frameworks (for web, mobile and desktop frontend, backend and Data Vizualization), C# (console apps, Unity games), C/C++ for embeded systems, and Python & MatLAB (data science, numerical simulations, backend)
   </p>
